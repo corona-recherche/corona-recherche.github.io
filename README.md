@@ -1,4 +1,4 @@
-# Corona Recherche - Verstand statt Panik
+# Corona Recherche - Für eine Renaissance der Aufklärung
 
 Eine Linksammlung zur Förderung der Meinungspluralität im deutschsprachigen Raum. Für eine Renaissance der Aufklärung.
 
