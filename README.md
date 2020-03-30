@@ -6,7 +6,10 @@ Eine Linksammlung zur Förderung der Meinungspluralität im deutschsprachigen Ra
 >
 > ‒ Immanuel Kant
 
+### Open Source Recherche 
+Dieses Projekt hat den Anspruch einer wissenschaftlichen Recherche. Es ist ein Versuch, "sich empor zu irren". Insbesondere ist es ein Versuch, die unterschiedlichen Standpunkte im allgemeinen Kanon der aktuellen Medienberichterstattung zu balancieren.
 
+Zielgruppe dieses Projekts ist "die Mitte der Gesellschaft". Dieses Projekt sammelt ausschließlich Links zu möglichst renomierter Presse oder Primärquellen. 
 
 ## Medizin
 - [Corona-Krise: Offener Brief an die Bundeskanzlerin von Prof. Dr. Sucharit Bhakdi (29.03.2020)](https://www.youtube.com/watch?v=LsExPrHCHbw)
