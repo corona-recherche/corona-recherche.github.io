@@ -43,6 +43,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Donald H. Rumsfeld Named Chairman of Gilead Sciences (01.03.1997, gilead.com)](https://www.gilead.com/news-and-press/press-room/press-releases/1997/1/donald-h-rumsfeld-named-chairman-of-gilead-sciences)
 - [USA zerstörten Pharmafirma, (31.08.1998, Focus Magazin)](https://www.focus.de/magazin/archiv/sudan-usa-zerstoerten-pharmafirma_aid_173351.html)
 - [Der Corona-Pate (28.03.2020, Rubikon)](https://www.rubikon.news/artikel/der-corona-pate)
+- [Covid-19 – eine seltene Krankheit? Gilead krebst zurück (27.03.2020 handelszeitung.ch) ](https://www.handelszeitung.ch/unternehmen/covid-19-eine-seltene-krankheit-gilead-krebst-zuruck)
 
 ## WHO 
 - [Der heimliche WHO-Chef heißt Bill Gates (04.04.2017, ZEIT)](https://www.zeit.de/wissen/gesundheit/2017-03/who-unabhaengigkeit-bill-gates-film)
