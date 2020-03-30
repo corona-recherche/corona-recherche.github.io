@@ -9,7 +9,7 @@ Eine Linksammlung zur Förderung der Meinungspluralität im deutschsprachigen Ra
 ### Offene Recherche 
 Dieses Projekt hat den Anspruch einer offenen Recherche. Es ist ein Versuch, "sich empor zu irren". Insbesondere ist es ein Versuch, die unterschiedlichen Standpunkte im allgemeinen Kanon der aktuellen Medienberichterstattung zu balancieren.
 
-Zielgruppe dieses Projekts ist "die Mitte der Gesellschaft". Dieses Projekt sammelt ausschließlich Links zu möglichst renomierter Presse oder Primärquellen. Jeder kann gerne mithelfen. 
+Zielgruppe dieses Projekts ist "die Mitte der Gesellschaft". Dieses Projekt sammelt ausschließlich Links zu möglichst renomierter, unumstrittener Presse oder Primärquellen, die breiten Konsens finden. Jeder kann gerne mithelfen.
 
 Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">corona-recherche@protonmail.ch</a> oder als [Pull Request](https://github.com/corona-recherche/corona-recherche.github.io/edit/master/README.md).
 
