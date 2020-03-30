@@ -74,4 +74,5 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Billionen-Dollar-Platinmünzen: Zwei Münzen sollen die US-Wirtschaft retten (n-tv, 25.03.2020)](https://www.n-tv.de/wirtschaft/Zwei-Muenzen-sollen-die-US-Wirtschaft-retten-article21665676.html)
 - [US-Senat beschließt historisches Billionen-Dollar-Hilfspaket (Spiegel, 26.03.2020)](https://www.spiegel.de/politik/ausland/coronakrise-us-senat-beschliesst-historisches-billionen-dollar-hilfspaket-a-961bad8a-9f48-45e2-b37b-adab0d071c47)
 - [Riesige Krisenpakete weltweit: Regierungen jonglieren mit Billionen (n-tv, 26.03.2020)](https://www.n-tv.de/wirtschaft/Regierungen-jonglieren-mit-Billionen-article21669994.html)
+- [Das 9,2-Billionen-Euro-Experiment (WELT, 26.03.2020)](https://www.welt.de/finanzen/article206802607/Regierungen-Fed-und-EZB-stellen-9-2-Billionen-Euro-bereit.html)
 - ['It's outrageous': U.S. Fed's big boost for BlackRock raises eyebrows on Wall Street (The Financial Times, 30.03.2020)](https://business.financialpost.com/financial-times/u-s-feds-big-boost-for-blackrock-raises-eyebrows-on-wall-street)
