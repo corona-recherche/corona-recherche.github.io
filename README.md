@@ -1,6 +1,6 @@
 # Corona Recherche - Verstand statt Panik
 
-Eine Linksammlung zur Förderung der Meinungspluralität im deutschsprachigen Raum.
+Eine Linksammlung zur Förderung der Meinungspluralität im deutschsprachigen Raum. Für eine Renaissance der Aufklärung.
 
 > *"Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit. Unmündigkeit ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen. Selbstverschuldet ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des Verstandes, sondern der Entschließung und des Muthes liegt, sich seiner ohne Leitung eines anderen zu bedienen. Sapere aude! Habe Muth, dich deines eigenen Verstandes zu bedienen!"*
 >
