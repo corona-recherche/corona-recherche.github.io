@@ -44,7 +44,12 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [USA zerstörten Pharmafirma, (31.08.1998, Focus Magazin)](https://www.focus.de/magazin/archiv/sudan-usa-zerstoerten-pharmafirma_aid_173351.html)
 - [Der Corona-Pate (28.03.2020, Rubikon)](https://www.rubikon.news/artikel/der-corona-pate)
 - [Covid-19 – eine seltene Krankheit? Gilead krebst zurück (27.03.2020 handelszeitung.ch) ](https://www.handelszeitung.ch/unternehmen/covid-19-eine-seltene-krankheit-gilead-krebst-zuruck)
+
+### Immunitäts-Zertifikate
+- [Germany will issue coronavirus antibody certificates to allow quarantined to re-enter society, (29.03.2020, Telegraph)](https://www.telegraph.co.uk/news/2020/03/29/germany-will-issue-coronavirus-antibody-certificates-allow-quarantined/?fbclid=IwAR3WDboCkonu3yexpSGcYVQ0AETvbKODEUi7NVy4VYlv0KdbaHJUyhIH7Co)
+- [Corona-Immunität als entscheidende Ressource (24.03.2020, Finanz und Wirtschaft)](https://www.fuw.ch/article/corona-immunitaet-als-entscheidende-ressource/)
 - ["Quantum dot tattoo" Storing medical information below the skin’s surface - "The research was funded by the Bill Gates Foundation" (18.12.2019, MIT News)](http://news.mit.edu/2019/storing-vaccine-history-skin-1218)
+- [ID2020 (id2020.org)](https://id2020.org/)
 
 ## WHO 
 - [Der heimliche WHO-Chef heißt Bill Gates (04.04.2017, ZEIT)](https://www.zeit.de/wissen/gesundheit/2017-03/who-unabhaengigkeit-bill-gates-film)
