@@ -46,8 +46,8 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Covid-19 – eine seltene Krankheit? Gilead krebst zurück (27.03.2020 handelszeitung.ch) ](https://www.handelszeitung.ch/unternehmen/covid-19-eine-seltene-krankheit-gilead-krebst-zuruck)
 
 ### Immunitäts-Zertifikate
+- [Corona-Immunität als entscheidende Ressource "Dieses Immunitätszertifikat dient ihnen als eine Art «Passierschein in die Normalität»" (24.03.2020, Finanz und Wirtschaft)](https://www.fuw.ch/article/corona-immunitaet-als-entscheidende-ressource/)
 - [Germany will issue coronavirus antibody certificates to allow quarantined to re-enter society, (29.03.2020, Telegraph)](https://www.telegraph.co.uk/news/2020/03/29/germany-will-issue-coronavirus-antibody-certificates-allow-quarantined/?fbclid=IwAR3WDboCkonu3yexpSGcYVQ0AETvbKODEUi7NVy4VYlv0KdbaHJUyhIH7Co)
-- [Corona-Immunität als entscheidende Ressource (24.03.2020, Finanz und Wirtschaft)](https://www.fuw.ch/article/corona-immunitaet-als-entscheidende-ressource/)
 - ["Quantum dot tattoo" Storing medical information below the skin’s surface - "The research was funded by the Bill Gates Foundation" (18.12.2019, MIT News)](http://news.mit.edu/2019/storing-vaccine-history-skin-1218)
 - [ID2020 (id2020.org)](https://id2020.org/)
 
