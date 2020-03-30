@@ -56,7 +56,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Orbán führt Ungarn in Richtung Diktatur, (23.03.2020, WELT)](https://www.welt.de/print/die_welt/politik/article206732497/Orban-fuehrt-Ungarn-in-Richtung-Diktatur.html)
 
 ## Wirtschaft 
-- [Jeden Dritten werfen ungeplante Ausgaben von 1000 Euro aus der Bahn (23.04.2018, FAZ)](https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/armut-in-deutschland-jeder-dritte-hat-nicht-mal-1000-euro-15553142/viele-haushalte-leben-in-sehr-15553153.html)
+- [Jeden Dritten werfen ungeplante Ausgaben von 1000 Euro aus der Bahn (23.04.2018, FAZ)](https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/armut-in-deutschland-jeder-dritte-hat-nicht-mal-1000-euro-15553142.html)
 - [Bill Gates - Millionen für Impfstoff-Hersteller Curevac (Handelsblatt, 05.03.2015)](https://www.handelsblatt.com/unternehmen/industrie/bill-gates-millionen-fuer-impfstoff-hersteller-curevac/11465836.html)
 - [Der größte Krisengewinner heißt Amazon (Capital, 28.03.2020)](https://www.capital.de/wirtschaft-politik/der-groesste-krisengewinner-heisst-amazon)
 - [Deichmann, Pimkie, C&A, H&M zahlen keine Miete, (Chip.de, 29.03.2020)](https://www.chip.de/news/Deichmann-Pimkie-CundA-HundM-zahlen-keine-Miete-Kunden-rufen-zum-Boykott-auf_182583617.html)
