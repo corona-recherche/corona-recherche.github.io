@@ -44,6 +44,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [USA zerstörten Pharmafirma, (31.08.1998, Focus Magazin)](https://www.focus.de/magazin/archiv/sudan-usa-zerstoerten-pharmafirma_aid_173351.html)
 - [Der Corona-Pate (28.03.2020, Rubikon)](https://www.rubikon.news/artikel/der-corona-pate)
 - [Covid-19 – eine seltene Krankheit? Gilead krebst zurück (27.03.2020 handelszeitung.ch) ](https://www.handelszeitung.ch/unternehmen/covid-19-eine-seltene-krankheit-gilead-krebst-zuruck)
+- ["Quantum dot tattoo" Storing medical information below the skin’s surface - "The research was funded by the Bill Gates Foundation" (18.12.2019, MIT News)](http://news.mit.edu/2019/storing-vaccine-history-skin-1218)
 
 ## WHO 
 - [Der heimliche WHO-Chef heißt Bill Gates (04.04.2017, ZEIT)](https://www.zeit.de/wissen/gesundheit/2017-03/who-unabhaengigkeit-bill-gates-film)
@@ -51,10 +52,11 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 
 
 ## Politik 
-- [Bericht zur Risikoanalyse im Bevölkerungsschutz 2012; Seite 56 ff (03.01.2013, Bundesregierung)](https://dipbt.bundestag.de/dip21/btd/17/120/1712051.pdf)
-- [Die Charité - Medizin unterm Hakenkreuz (19.11.2019, RBB)](https://www.rbb-online.de/doku/die/die-charite---medizin-unterm-hakenkreuz.html)
+- [Bericht zur Risikoanalyse im Bevölkerungsschutz 2012: Pandemie durch Virus
+„Modi-SARS“; Seite 56 ff (03.01.2013, Bundesregierung)](https://dipbt.bundestag.de/dip21/btd/17/120/1712051.pdf)
 - [Notfalls mit Militär: Dänemark will mit restriktiven Gesetzen das Coronavirus Sars-CoV-2 eindämmen (19.03.2020, Frankfurter Rundschau)](https://www.fr.de/politik/coronavirus-sars-cov-2-daenemark-notfalls-militaer-13598503.html)
 - [Orbán führt Ungarn in Richtung Diktatur, (23.03.2020, WELT)](https://www.welt.de/print/die_welt/politik/article206732497/Orban-fuehrt-Ungarn-in-Richtung-Diktatur.html)
+- [Die Charité - Medizin unterm Hakenkreuz (19.11.2019, RBB)](https://www.rbb-online.de/doku/die/die-charite---medizin-unterm-hakenkreuz.html)
 
 ## Wirtschaft 
 - [Jeden Dritten werfen ungeplante Ausgaben von 1000 Euro aus der Bahn (23.04.2018, FAZ)](https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/armut-in-deutschland-jeder-dritte-hat-nicht-mal-1000-euro-15553142.html)
