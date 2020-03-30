@@ -17,8 +17,12 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Corona-Krise: Offener Brief an die Bundeskanzlerin von Prof. Dr. Sucharit Bhakdi (29.03.2020)](https://www.youtube.com/watch?v=LsExPrHCHbw)
 - [Stanford Professor: Data Indicates We’re Severely Overreacting To Coronavirus (18.03.2020 dailywire)](https://www.dailywire.com/news/stanford-professor-data-indicates-were-overreacting-to-coronavirus)
 - [Virologin Mölling warnt vor Panikmache (14.03.2020 RadioEins RBB)](https://www.radioeins.de/programm/sendungen/die_profis/archivierte_sendungen/beitraege/corona-virus-kein-killervirus.html)
+
+## Statistik 
 - [Warum sterben in Italien so viele? (20.03.2020, FAZ)](https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/corona-pandemie-warum-sterben-in-italien-so-viele-16688344.html)
+- [Petition: Führen Sie systematisch repräsentative SARS-CoV-2-Tests durch, um die Pandemie zu stoppen](https://www.change.org/p/ministerpr%C3%A4sident-dr-markus-s%C3%B6der-f%C3%BChren-sie-systematische-repr%C3%A4sentative-covid-19-tests-durch-um-die-pandemie-zu-stoppen)
 - ["The protocols have not yet been validated", (März 2020, WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance)
+- [www.euromomo.eu - Mortality monitoring in Europe](https://www.euromomo.eu/)
 
 ## Recht 
 - [Jurist bewertet die verschärften Maßnahmen gegen Corona
