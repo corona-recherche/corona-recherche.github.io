@@ -69,3 +69,9 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Bill Gates - Millionen für Impfstoff-Hersteller Curevac (Handelsblatt, 05.03.2015)](https://www.handelsblatt.com/unternehmen/industrie/bill-gates-millionen-fuer-impfstoff-hersteller-curevac/11465836.html)
 - [Der größte Krisengewinner heißt Amazon (Capital, 28.03.2020)](https://www.capital.de/wirtschaft-politik/der-groesste-krisengewinner-heisst-amazon)
 - [Deichmann, Pimkie, C&A, H&M zahlen keine Miete, (Chip.de, 29.03.2020)](https://www.chip.de/news/Deichmann-Pimkie-CundA-HundM-zahlen-keine-Miete-Kunden-rufen-zum-Boykott-auf_182583617.html)
+
+## Finanzen 
+- [Billionen-Dollar-Platinmünzen: Zwei Münzen sollen die US-Wirtschaft retten (n-tv, 25.03.2020)](https://www.n-tv.de/wirtschaft/Zwei-Muenzen-sollen-die-US-Wirtschaft-retten-article21665676.html)
+- [US-Senat beschließt historisches Billionen-Dollar-Hilfspaket (Spiegel, 26.03.2020)](https://www.spiegel.de/politik/ausland/coronakrise-us-senat-beschliesst-historisches-billionen-dollar-hilfspaket-a-961bad8a-9f48-45e2-b37b-adab0d071c47)
+- [Riesige Krisenpakete weltweit: Regierungen jonglieren mit Billionen (n-tv, 26.03.2020)](https://www.n-tv.de/wirtschaft/Regierungen-jonglieren-mit-Billionen-article21669994.html)
+- ['It's outrageous': U.S. Fed's big boost for BlackRock raises eyebrows on Wall Street (The Financial Times, 30.03.2020)](https://business.financialpost.com/financial-times/u-s-feds-big-boost-for-blackrock-raises-eyebrows-on-wall-street)
