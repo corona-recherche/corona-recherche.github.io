@@ -23,6 +23,8 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Petition: Führen Sie systematisch repräsentative SARS-CoV-2-Tests durch, um die Pandemie zu stoppen](https://www.change.org/p/ministerpr%C3%A4sident-dr-markus-s%C3%B6der-f%C3%BChren-sie-systematische-repr%C3%A4sentative-covid-19-tests-durch-um-die-pandemie-zu-stoppen)
 - ["The protocols have not yet been validated", (März 2020, WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance)
 - [www.euromomo.eu - Mortality monitoring in Europe](https://www.euromomo.eu/)
+- [RKI will Dunkelziffer der Coronavirus-Infektionen durch Studien ermitteln - "es gibt bisher keine verlässliche Datengrundlage" (26.03.2020, Deutschlandfunk)](https://www.deutschlandfunk.de/covid-19-rki-will-dunkelziffer-der-coronavirus-infektionen.2850.de.html?drn:news_id=1114345)
+
 
 ## Recht 
 - [Jurist bewertet die verschärften Maßnahmen gegen Corona
@@ -31,7 +33,6 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Coronakrise: „Risikogruppen haben nichts davon, wenn alle ‚weggesperrt‘ werden“ (30.03.20, Frankfurter Rundschau)](https://www.fr.de/politik/coronakrise-deutschland-kontaktsperre-koennte-rechtswidrig-sein-13611821.html)
 - [Die Krise als Hebel für Überwachung und Kontrolle (26.03.2020, netzpolitik.org)](https://netzpolitik.org/2020/die-krise-als-hebel-fuer-ueberwachung-und-kontrolle/)
 - [Spahns Corona-Gesetz stößt auf verfassungsrechtliche Bedenken (24.03.2020, Handelsblatt)](https://www.handelsblatt.com/politik/deutschland/infektionsschutzgesetz-spahns-corona-gesetz-stoesst-auf-verfassungsrechtliche-bedenken/25673042.html?ticket=ST-2034727-Y56jF0ibcTYNMm9BzoeA-ap6)
-- [RKI will Dunkelziffer der Coronavirus-Infektionen durch Studien ermitteln - "es gibt bisher keine verlässliche Datengrundlage" (26.03.2020, Deutschlandfunk)](https://www.deutschlandfunk.de/covid-19-rki-will-dunkelziffer-der-coronavirus-infektionen.2850.de.html?drn:news_id=1114345)
 
 ## Medien 
 - [Scharfe Kritik an ARD und ZDF wegen Berichterstattung zum Coronavirus (26.03.2020 Deutschlandfunk)](https://www.deutschlandfunk.de/covid-19-scharfe-kritik-an-ard-und-zdf-wegen.2849.de.html?drn%3Anews_id=1114517&fbclid=IwAR1WEi29ShfjqG9aWPLS0K8S1Ha0MAoZp_WYAuhnAn3f6arZusNRisIBZsI)
