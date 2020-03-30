@@ -6,8 +6,8 @@ Eine Linksammlung zur Förderung der Meinungspluralität im deutschsprachigen Ra
 >
 > ‒ Immanuel Kant
 
-### Open Source Recherche 
-Dieses Projekt hat den Anspruch einer wissenschaftlichen Recherche. Es ist ein Versuch, "sich empor zu irren". Insbesondere ist es ein Versuch, die unterschiedlichen Standpunkte im allgemeinen Kanon der aktuellen Medienberichterstattung zu balancieren.
+### Offene Recherche 
+Dieses Projekt hat den Anspruch einer offenen Recherche. Es ist ein Versuch, "sich empor zu irren". Insbesondere ist es ein Versuch, die unterschiedlichen Standpunkte im allgemeinen Kanon der aktuellen Medienberichterstattung zu balancieren.
 
 Zielgruppe dieses Projekts ist "die Mitte der Gesellschaft". Dieses Projekt sammelt ausschließlich Links zu möglichst renomierter Presse oder Primärquellen. 
 
