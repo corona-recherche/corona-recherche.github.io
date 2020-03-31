@@ -9,7 +9,7 @@ Eine Linksammlung zur Förderung der Meinungspluralität im deutschsprachigen Ra
 ### Offene Recherche 
 Dieses Projekt hat den Anspruch einer offenen Recherche. Es ist ein Versuch, "sich empor zu irren". Insbesondere ist es ein Versuch, die unterschiedlichen Standpunkte im allgemeinen Kanon der aktuellen Medienberichterstattung zu balancieren.
 
-Zielgruppe dieses Projekts ist "die Mitte der Gesellschaft". Dieses Projekt sammelt ausschließlich Links zu möglichst renomierter, unumstrittener Presse oder Primärquellen, die breiten Konsens finden. Jeder kann gerne mithelfen.
+Zielgruppe dieses Projekts ist "die Mitte der Gesellschaft". Dieses Projekt sammelt ausschließlich Links zu möglichst anerkannter, unumstrittener Presse oder Primärquellen, die breiten Konsens finden. Jeder kann gerne mithelfen.
 
 Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">corona-recherche@protonmail.ch</a> oder als [Pull Request](https://github.com/corona-recherche/corona-recherche.github.io/edit/master/README.md).
 
@@ -47,9 +47,10 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Covid-19 – eine seltene Krankheit? Gilead krebst zurück (Handelszeitung, 27.03.2020) ](https://www.handelszeitung.ch/unternehmen/covid-19-eine-seltene-krankheit-gilead-krebst-zuruck)
 
 ### Immunitäts-Zertifikate
+- ["Quantum dot tattoo" Storing medical information below the skin’s surface - "The research was funded by the Bill Gates Foundation" (MIT News, 18.12.2019)](http://news.mit.edu/2019/storing-vaccine-history-skin-1218)
 - [Corona-Immunität als entscheidende Ressource "Dieses Immunitätszertifikat dient ihnen als eine Art «Passierschein in die Normalität»" (Finanz und Wirtschaft, 24.03.2020)](https://www.fuw.ch/article/corona-immunitaet-als-entscheidende-ressource/)
 - [Germany will issue coronavirus antibody certificates to allow quarantined to re-enter society, (Telegraph, 29.03.2020)](https://www.telegraph.co.uk/news/2020/03/29/germany-will-issue-coronavirus-antibody-certificates-allow-quarantined/?fbclid=IwAR3WDboCkonu3yexpSGcYVQ0AETvbKODEUi7NVy4VYlv0KdbaHJUyhIH7Co)
-- ["Quantum dot tattoo" Storing medical information below the skin’s surface - "The research was funded by the Bill Gates Foundation" (MIT News, 18.12.2019)](http://news.mit.edu/2019/storing-vaccine-history-skin-1218)
+- [Der Weg zurück in die Normalität: "Dieses Immunitätszertifikat dient ihnen als eine Art «Passierschein in die Normalität»" (Telepolis, 24.03.2020)](https://www.heise.de/tp/features/Der-Weg-zurueck-in-die-Normalitaet-4688592.html)
 - [ID2020 (id2020.org)](https://id2020.org/)
 
 ## WHO 
