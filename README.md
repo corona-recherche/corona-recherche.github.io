@@ -35,7 +35,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Juristen-Streit über Rechtmäßigkeit von Ausgangsbeschränkung (Saarbrücker Zeitung, 30.03.2020)](https://www.saarbruecker-zeitung.de/saarland/landespolitik/corona-juristen-streit-ueber-rechtmaessigkeit-von-ausgangsbeschraenkung_aid-49833487)
 - [Coronakrise: „Risikogruppen haben nichts davon, wenn alle ‚weggesperrt‘ werden“ (Frankfurter Rundschau, 30.03.20)](https://www.fr.de/politik/coronakrise-deutschland-kontaktsperre-koennte-rechtswidrig-sein-13611821.html)
 - [Die Krise als Hebel für Überwachung und Kontrolle (netzpolitik.org, 26.03.2020)](https://netzpolitik.org/2020/die-krise-als-hebel-fuer-ueberwachung-und-kontrolle/)
-- [Spahns Corona-Gesetz stößt auf verfassungsrechtliche Bedenken (Handelsblatt, 24.03.2020)](https://www.handelsblatt.com/politik/deutschland/infektionsschutzgesetz-spahns-corona-gesetz-stoesst-auf-verfassungsrechtliche-bedenken/25673042.html?ticket=ST-2034727-Y56jF0ibcTYNMm9BzoeA-ap6)
+- [Spahns Corona-Gesetz stößt auf verfassungsrechtliche Bedenken (Handelsblatt, 24.03.2020)](https://www.handelsblatt.com/politik/deutschland/infektionsschutzgesetz-spahns-corona-gesetz-stoesst-auf-verfassungsrechtliche-bedenken/25673042.html)
 
 ## Medien 
 - [Scharfe Kritik an ARD und ZDF wegen Berichterstattung zum Coronavirus (Deutschlandfunk, 26.03.2020)](https://www.deutschlandfunk.de/covid-19-scharfe-kritik-an-ard-und-zdf-wegen.2849.de.html?drn%3Anews_id=1114517&fbclid=IwAR1WEi29ShfjqG9aWPLS0K8S1Ha0MAoZp_WYAuhnAn3f6arZusNRisIBZsI)
@@ -54,7 +54,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 ### Immunitäts-Zertifikate
 - ["Quantum dot tattoo" Storing medical information below the skin’s surface - "The research was funded by the Bill Gates Foundation" (MIT News, 18.12.2019)](http://news.mit.edu/2019/storing-vaccine-history-skin-1218)
 - [Corona-Immunität als entscheidende Ressource "Dieses Immunitätszertifikat dient ihnen als eine Art «Passierschein in die Normalität»" (Finanz und Wirtschaft, 24.03.2020)](https://www.fuw.ch/article/corona-immunitaet-als-entscheidende-ressource/)
-- [Germany will issue coronavirus antibody certificates to allow quarantined to re-enter society, (Telegraph, 29.03.2020)](https://www.telegraph.co.uk/news/2020/03/29/germany-will-issue-coronavirus-antibody-certificates-allow-quarantined/?fbclid=IwAR3WDboCkonu3yexpSGcYVQ0AETvbKODEUi7NVy4VYlv0KdbaHJUyhIH7Co)
+- [Germany will issue coronavirus antibody certificates to allow quarantined to re-enter society, (Telegraph, 29.03.2020)](https://www.telegraph.co.uk/news/2020/03/29/germany-will-issue-coronavirus-antibody-certificates-allow-quarantined/)
 - [Der Weg zurück in die Normalität: "Dieses Immunitätszertifikat dient ihnen als eine Art «Passierschein in die Normalität»" (Telepolis, 24.03.2020)](https://www.heise.de/tp/features/Der-Weg-zurueck-in-die-Normalitaet-4688592.html)
 - [ID2020 (id2020.org)](https://id2020.org/)
 
