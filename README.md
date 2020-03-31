@@ -56,7 +56,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 ## WHO 
 - [Der heimliche WHO-Chef heißt Bill Gates (ZEIT, 04.04.2017)](https://www.zeit.de/wissen/gesundheit/2017-03/who-unabhaengigkeit-bill-gates-film)
 - [Die WHO - Im Griff der Lobbyisten? (ARTE, 04.04.2017)](https://programm.ard.de/TV/Programm/Detailsuche/?sendung=2872498016546)
-
+- [WHO officials enroll first patients from Norway and Spain in ‘historic’ coronavirus drug trial, (CNBC, 27.03.2020)](https://www.cnbc.com/2020/03/27/who-officials-enroll-first-patients-from-norway-and-spain-in-historic-coronavirus-drug-trial.html)
 
 ## Politik 
 - [Bericht zur Risikoanalyse im Bevölkerungsschutz 2012: Pandemie durch Virus
