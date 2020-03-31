@@ -79,3 +79,4 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - ['It's outrageous': U.S. Fed's big boost for BlackRock raises eyebrows on Wall Street (The Financial Times, 30.03.2020)](https://business.financialpost.com/financial-times/u-s-feds-big-boost-for-blackrock-raises-eyebrows-on-wall-street)
 - [“There’s class warfare, all right,” Mr. Buffett said, “but it’s my class, the rich class, that’s making war, and we’re winning.” (New York Times, 26.11.2006) ](https://www.nytimes.com/2006/11/26/business/yourmoney/26every.html)
 - ["Meist dauern Hyperinflationen nur eine kurze Zeit und enden in einer Währungsreform." (Aus der Definition in der Wikipedia)](https://de.wikipedia.org/wiki/Hyperinflation)
+- [Währungsreform: Wie der IWF das Bargeld abschaffen möchte (Frankfurter Rundschau, 13.03.2020)](https://www.fr.de/politik/washington-dc-raet-bargeld-abzuschaffen-12894181.html)
