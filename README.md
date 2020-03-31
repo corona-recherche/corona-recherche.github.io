@@ -63,7 +63,8 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Die WHO - Im Griff der Lobbyisten? (ARTE, 04.04.2017)](https://programm.ard.de/TV/Programm/Detailsuche/?sendung=2872498016546)
 - [WHO officials enroll first patients from Norway and Spain in ‘historic’ coronavirus drug trial, (CNBC, 27.03.2020)](https://www.cnbc.com/2020/03/27/who-officials-enroll-first-patients-from-norway-and-spain-in-historic-coronavirus-drug-trial.html)
 - [Bill Gates Met With Jeffrey Epstein Many Times, Despite His Past (New York Times, 12.10.2019)](https://www.nytimes.com/2019/10/12/business/jeffrey-epstein-bill-gates.html)
-
+- [Bill Gates zwischen Schein und Sein (Telepolis, 31. Januar 2016)](https://www.heise.de/tp/features/Bill-Gates-zwischen-Schein-und-Sein-3378037.html)
+   - [Is the Gates Foundation always a force for good? (Global Justice Now, Juni 2016)](https://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf)
 
 ## Politik 
 - [Bericht zur Risikoanalyse im Bevölkerungsschutz 2012: Pandemie durch Virus
