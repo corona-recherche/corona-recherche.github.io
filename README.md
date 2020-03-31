@@ -36,7 +36,6 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Coronakrise: „Risikogruppen haben nichts davon, wenn alle ‚weggesperrt‘ werden“ (Frankfurter Rundschau, 30.03.20)](https://www.fr.de/politik/coronakrise-deutschland-kontaktsperre-koennte-rechtswidrig-sein-13611821.html)
 - [Die Krise als Hebel für Überwachung und Kontrolle (netzpolitik.org, 26.03.2020)](https://netzpolitik.org/2020/die-krise-als-hebel-fuer-ueberwachung-und-kontrolle/)
 - [Spahns Corona-Gesetz stößt auf verfassungsrechtliche Bedenken (Handelsblatt, 24.03.2020)](https://www.handelsblatt.com/politik/deutschland/infektionsschutzgesetz-spahns-corona-gesetz-stoesst-auf-verfassungsrechtliche-bedenken/25673042.html)
-- [Bill Gates Met With Jeffrey Epstein Many Times, Despite His Past (New York Times, 12.10.2019)](https://www.nytimes.com/2019/10/12/business/jeffrey-epstein-bill-gates.html)
 
 ## Medien 
 - [Scharfe Kritik an ARD und ZDF wegen Berichterstattung zum Coronavirus (Deutschlandfunk, 26.03.2020)](https://www.deutschlandfunk.de/covid-19-scharfe-kritik-an-ard-und-zdf-wegen.2849.de.html?drn%3Anews_id=1114517&fbclid=IwAR1WEi29ShfjqG9aWPLS0K8S1Ha0MAoZp_WYAuhnAn3f6arZusNRisIBZsI)
@@ -63,6 +62,8 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Der heimliche WHO-Chef heißt Bill Gates (ZEIT, 04.04.2017)](https://www.zeit.de/wissen/gesundheit/2017-03/who-unabhaengigkeit-bill-gates-film)
 - [Die WHO - Im Griff der Lobbyisten? (ARTE, 04.04.2017)](https://programm.ard.de/TV/Programm/Detailsuche/?sendung=2872498016546)
 - [WHO officials enroll first patients from Norway and Spain in ‘historic’ coronavirus drug trial, (CNBC, 27.03.2020)](https://www.cnbc.com/2020/03/27/who-officials-enroll-first-patients-from-norway-and-spain-in-historic-coronavirus-drug-trial.html)
+- [Bill Gates Met With Jeffrey Epstein Many Times, Despite His Past (New York Times, 12.10.2019)](https://www.nytimes.com/2019/10/12/business/jeffrey-epstein-bill-gates.html)
+
 
 ## Politik 
 - [Bericht zur Risikoanalyse im Bevölkerungsschutz 2012: Pandemie durch Virus
