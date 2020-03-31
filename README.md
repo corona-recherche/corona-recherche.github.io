@@ -21,7 +21,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 ## Statistik 
 - [Warum sterben in Italien so viele? (FAZ, 20.03.2020)](https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/corona-pandemie-warum-sterben-in-italien-so-viele-16688344.html)
 - Petitionen für die Durchführung einer repräsentativen Stichprobe
-  - [Führen Sie eine Baseline Studie durch  - Wir brauchen endlich saubere Corona-Dataen](https://www.openpetition.de/petition/online/fuehren-sie-die-baseline-studie-durch-wir-brauchen-endlich-saubere-corona-daten)
+  - [Führen Sie eine Baseline Studie durch  - Wir brauchen endlich saubere Corona-Daten](https://www.openpetition.de/petition/online/fuehren-sie-die-baseline-studie-durch-wir-brauchen-endlich-saubere-corona-daten)
   - [Petition: Führen Sie systematisch repräsentative SARS-CoV-2-Tests durch, um die Pandemie zu stoppen](https://www.change.org/p/ministerpr%C3%A4sident-dr-markus-s%C3%B6der-f%C3%BChren-sie-systematische-repr%C3%A4sentative-covid-19-tests-durch-um-die-pandemie-zu-stoppen)
 - ["The protocols have not yet been validated", (WHO, März 2020)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance)
 - [www.euromomo.eu - Mortality monitoring in Europe](https://www.euromomo.eu/)
