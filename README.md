@@ -49,7 +49,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Der Corona-Pate (Rubikon, 28.03.2020)](https://www.rubikon.news/artikel/der-corona-pate)
 - [Covid-19 – eine seltene Krankheit? Gilead krebst zurück (Handelszeitung, 27.03.2020) ](https://www.handelszeitung.ch/unternehmen/covid-19-eine-seltene-krankheit-gilead-krebst-zuruck)
 - [Coronavirus-Update: Brauchen Abkürzungen bei der Impfstoffzulassung; Drosten: "Zum Glück werden wir unterstützt von der Bill Gates Foundation" (NDR, 18.03.2020)](https://www.ndr.de/nachrichten/info/16-Coronavirus-Update-Wir-brauchen-Abkuerzungen-bei-der-Impfstoffzulassung,podcastcoronavirus140.html)
-
+- [Bill Gates investiert Millionen, um ein Heilmittel für das Coronavirus zu finden (Businessinsider, 11.03.2020)](https://www.businessinsider.de/wissenschaft/gesundheit/bill-gates-warnt-vor-coronavirus-und-investiert-in-heilmittel/)
 
 ### Immunitäts-Zertifikate
 - ["Quantum dot tattoo" Storing medical information below the skin’s surface - "The research was funded by the Bill Gates Foundation" (MIT News, 18.12.2019)](http://news.mit.edu/2019/storing-vaccine-history-skin-1218)
