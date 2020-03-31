@@ -27,9 +27,10 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 
 
 ## Recht 
+- [Gastbeitrag zur Corona-Krise: Der Rechtsstaat hat sich angesteckt (Saarbrücken Zeitung, 22.03.2020)](https://www.saarbruecker-zeitung.de/nachrichten/meinung/standpunkt/in-der-corona-krise-hat-sich-der-rechtsstaat-angesteckt_aid-49693223)
 - [Jurist bewertet die verschärften Maßnahmen gegen Corona
 (18.03.2020 aktueller bericht SR Fernsehen) ](https://www.ardmediathek.de/ard/player/Y3JpZDovL3NyLW9ubGluZS5kZS9BQl84NTM5NA/jurist-bewertet-die-versch-rften-ma-nahmen-gegen-corona)
-- [Gastbeitrag zur Corona-Krise: Der Rechtsstaat hat sich angesteckt (Saarbrücken Zeitung, 22.03.2020)](https://www.saarbruecker-zeitung.de/nachrichten/meinung/standpunkt/in-der-corona-krise-hat-sich-der-rechtsstaat-angesteckt_aid-49693223)
+- [Juristen-Streit über Rechtmäßigkeit von Ausgangsbeschränkung (Saarbrücker Zeitung, 30.03.2020)](https://www.saarbruecker-zeitung.de/saarland/landespolitik/corona-juristen-streit-ueber-rechtmaessigkeit-von-ausgangsbeschraenkung_aid-49833487)
 - [Coronakrise: „Risikogruppen haben nichts davon, wenn alle ‚weggesperrt‘ werden“ (Frankfurter Rundschau, 30.03.20)](https://www.fr.de/politik/coronakrise-deutschland-kontaktsperre-koennte-rechtswidrig-sein-13611821.html)
 - [Die Krise als Hebel für Überwachung und Kontrolle (netzpolitik.org, 26.03.2020)](https://netzpolitik.org/2020/die-krise-als-hebel-fuer-ueberwachung-und-kontrolle/)
 - [Spahns Corona-Gesetz stößt auf verfassungsrechtliche Bedenken (Handelsblatt, 24.03.2020)](https://www.handelsblatt.com/politik/deutschland/infektionsschutzgesetz-spahns-corona-gesetz-stoesst-auf-verfassungsrechtliche-bedenken/25673042.html?ticket=ST-2034727-Y56jF0ibcTYNMm9BzoeA-ap6)
