@@ -89,3 +89,4 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [“There’s class warfare, all right,” Mr. Buffett said, “but it’s my class, the rich class, that’s making war, and we’re winning.” (New York Times, 26.11.2006) ](https://www.nytimes.com/2006/11/26/business/yourmoney/26every.html)
 - ["Meist dauern Hyperinflationen nur eine kurze Zeit und enden in einer Währungsreform." (Aus der Definition in der Wikipedia)](https://de.wikipedia.org/wiki/Hyperinflation)
 - [Währungsreform: Wie der IWF das Bargeld abschaffen möchte (Frankfurter Rundschau, 13.03.2020)](https://www.fr.de/politik/washington-dc-raet-bargeld-abzuschaffen-12894181.html)
+- [Bundesbank prüft digitalen Euro (Handelsblatt, 14.03.2020)](https://www.handelsblatt.com/finanzen/geldpolitik/zahlungsverkehr-bundesbank-prueft-digitalen-euro/25640780.html?ticket=ST-177304-O5TzFfbftm6ydHQ3Sa5r-ap2)
