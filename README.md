@@ -65,7 +65,8 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Bill Gates Met With Jeffrey Epstein Many Times, Despite His Past (New York Times, 12.10.2019)](https://www.nytimes.com/2019/10/12/business/jeffrey-epstein-bill-gates.html)
 - [Bill Gates zwischen Schein und Sein (Telepolis, 31. Januar 2016)](https://www.heise.de/tp/features/Bill-Gates-zwischen-Schein-und-Sein-3378037.html)
    - [Is the Gates Foundation always a force for good? (Global Justice Now, Juni 2016)](https://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf)
-
+   - [Bill Gates Foundation hosted Event 201, a high-level pandemic exercise on October 18, 2019 (Event 201)](http://www.centerforhealthsecurity.org/event201/)
+   
 ## Politik 
 - [Bericht zur Risikoanalyse im Bevölkerungsschutz 2012: Pandemie durch Virus
 „Modi-SARS“; Seite 56 ff (Bundesregierung, 03.01.2013)](https://dipbt.bundestag.de/dip21/btd/17/120/1712051.pdf)
