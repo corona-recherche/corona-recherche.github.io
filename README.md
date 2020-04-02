@@ -31,6 +31,11 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [www.euromomo.eu - Mortality monitoring in Europe](https://www.euromomo.eu/)
 - [RKI will Dunkelziffer der Coronavirus-Infektionen durch Studien ermitteln - "es gibt bisher keine verlässliche Datengrundlage" (Deutschlandfunk, 26.03.2020)](https://www.deutschlandfunk.de/covid-19-rki-will-dunkelziffer-der-coronavirus-infektionen.2850.de.html?drn:news_id=1114345)
 
+### Robert Koch Institut
+- Die Anzahl der Infizierten verdreifacht sich nicht jede Woche, sondern sie wächst bloß um weniger als 2% 
+  - [Lagebericht 2020-03-26](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-03-26-de.pdf?__blob=publicationFile)
+  - [Lagebericht 2020-04-01](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-04-01-de.pdf?__blob=publicationFile)
+
 
 ## Recht 
 - [Gastbeitrag zur Corona-Krise: Der Rechtsstaat hat sich angesteckt (Saarbrücken Zeitung, 22.03.2020)](https://www.saarbruecker-zeitung.de/nachrichten/meinung/standpunkt/in-der-corona-krise-hat-sich-der-rechtsstaat-angesteckt_aid-49693223)
