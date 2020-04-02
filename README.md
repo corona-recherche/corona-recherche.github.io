@@ -17,6 +17,8 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Corona-Krise: Offener Brief an die Bundeskanzlerin von Prof. Dr. Sucharit Bhakdi (29.03.2020)](https://www.youtube.com/watch?v=LsExPrHCHbw)
 - [Stanford Professor: Data Indicates We’re Severely Overreacting To Coronavirus (Dailywire, 18.03.2020)](https://www.dailywire.com/news/stanford-professor-data-indicates-were-overreacting-to-coronavirus)
 - [Virologin Mölling warnt vor Panikmache (RBB RadioEins, 14.03.2020)](https://www.radioeins.de/programm/sendungen/die_profis/archivierte_sendungen/beitraege/corona-virus-kein-killervirus.html)
+- [Überlastung deutscher Krankenhäuser durch COVID-19 laut Experten unwahrscheinlich (Ärzteblatt, 12.03.2020)](https://www.aerzteblatt.de/nachrichten/111029/Ueberlastung-deutscher-Krankenhaeuser-durch-COVID-19-laut-Experten-unwahrscheinlich)
+
 
 ## Statistik 
 - [Warum sterben in Italien so viele? (FAZ, 20.03.2020)](https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/corona-pandemie-warum-sterben-in-italien-so-viele-16688344.html)
