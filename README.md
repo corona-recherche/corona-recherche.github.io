@@ -50,8 +50,9 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 
 ## Pharma 
 - [Profiteure der Angst (2009 ARTE, MDR)](https://www.youtube.com/watch?v=ZkyL4NxJJcc)
-- [Donald H. Rumsfeld Named Chairman of Gilead Sciences (gilead.com, 01.03.1997)](https://www.gilead.com/news-and-press/press-room/press-releases/1997/1/donald-h-rumsfeld-named-chairman-of-gilead-sciences)
+- [Donald Rumsfeld Named Chairman of Gilead Sciences (gilead.com, 01.03.1997)](https://www.gilead.com/news-and-press/press-room/press-releases/1997/1/donald-h-rumsfeld-named-chairman-of-gilead-sciences)
 - [USA zerstörten Pharmafirma, (Focus Magazin, 31.08.1998)](https://www.focus.de/magazin/archiv/sudan-usa-zerstoerten-pharmafirma_aid_173351.html)
+- [Rumsfeld profitiert vom Tamiflu-Boom (Spiegel, 01.11.2005)](https://www.spiegel.de/wirtschaft/vogelgrippe-rumsfeld-profitiert-vom-tamiflu-boom-a-382714.html)
 - [Der Corona-Pate (Rubikon, 28.03.2020)](https://www.rubikon.news/artikel/der-corona-pate)
 - [Covid-19 – eine seltene Krankheit? Gilead krebst zurück (Handelszeitung, 27.03.2020) ](https://www.handelszeitung.ch/unternehmen/covid-19-eine-seltene-krankheit-gilead-krebst-zuruck)
 - [Coronavirus-Update: Brauchen Abkürzungen bei der Impfstoffzulassung; Drosten: "Zum Glück werden wir unterstützt von der Bill Gates Foundation" (NDR, 18.03.2020)](https://www.ndr.de/nachrichten/info/16-Coronavirus-Update-Wir-brauchen-Abkuerzungen-bei-der-Impfstoffzulassung,podcastcoronavirus140.html)
@@ -85,6 +86,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Bill Gates - Millionen für Impfstoff-Hersteller Curevac (Handelsblatt, 05.03.2015)](https://www.handelsblatt.com/unternehmen/industrie/bill-gates-millionen-fuer-impfstoff-hersteller-curevac/11465836.html)
 - [Der größte Krisengewinner heißt Amazon (Capital, 28.03.2020)](https://www.capital.de/wirtschaft-politik/der-groesste-krisengewinner-heisst-amazon)
 - [Deichmann, Pimkie, C&A, H&M zahlen keine Miete, (Chip.de, 29.03.2020)](https://www.chip.de/news/Deichmann-Pimkie-CundA-HundM-zahlen-keine-Miete-Kunden-rufen-zum-Boykott-auf_182583617.html)
+- [Zehn Millionen neue Arbeitslose in den USA (n-tv, 02.04.2020)](https://www.n-tv.de/wirtschaft/Zehn-Millionen-neue-Arbeitslose-in-den-USA-article21688497.html)
 
 ## Finanzen 
 - [Billionen-Dollar-Platinmünzen: Zwei Münzen sollen die US-Wirtschaft retten (n-tv, 25.03.2020)](https://www.n-tv.de/wirtschaft/Zwei-Muenzen-sollen-die-US-Wirtschaft-retten-article21665676.html)
