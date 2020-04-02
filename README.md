@@ -39,6 +39,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Die Krise als Hebel für Überwachung und Kontrolle (netzpolitik.org, 26.03.2020)](https://netzpolitik.org/2020/die-krise-als-hebel-fuer-ueberwachung-und-kontrolle/)
 - [Spahns Corona-Gesetz stößt auf verfassungsrechtliche Bedenken (Handelsblatt, 24.03.2020)](https://www.handelsblatt.com/politik/deutschland/infektionsschutzgesetz-spahns-corona-gesetz-stoesst-auf-verfassungsrechtliche-bedenken/25673042.html)
 - [Scharfe Kritik im Landtag am Corona-Gesetz: "«Ermächtigungsgesetz» nannte es ein Ärztevertreter" (WDR, 01.04.2020) ](https://www1.wdr.de/nachrichten/landespolitik/epidemigesetz-landtag-100.html)
+- [Die Regierung ermächtigt sich in der Corona-Krise selbst – zulässig ist das nicht (Tagesspiegel, 01.04.2020)](https://www.tagesspiegel.de/politik/parlament-gibt-kontrolle-aus-der-hand-die-regierung-ermaechtigt-sich-in-der-corona-krise-selbst-zulaessig-ist-das-nicht/25701884.html?fbclid=IwAR3a8UWOwtKmcwcyC-05G6ox6rfHwg75ur0y1GtHZ7MkgA0bbYKZGz_LKAY)
 
 ## Medien 
 - [Scharfe Kritik an ARD und ZDF wegen Berichterstattung zum Coronavirus (Deutschlandfunk, 26.03.2020)](https://www.deutschlandfunk.de/covid-19-scharfe-kritik-an-ard-und-zdf-wegen.2849.de.html?drn%3Anews_id=1114517&fbclid=IwAR1WEi29ShfjqG9aWPLS0K8S1Ha0MAoZp_WYAuhnAn3f6arZusNRisIBZsI)
