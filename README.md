@@ -18,7 +18,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Stanford Professor: Data Indicates We’re Severely Overreacting To Coronavirus (Dailywire, 18.03.2020)](https://www.dailywire.com/news/stanford-professor-data-indicates-were-overreacting-to-coronavirus)
 - [Virologin Mölling warnt vor Panikmache (RBB RadioEins, 14.03.2020)](https://www.radioeins.de/programm/sendungen/die_profis/archivierte_sendungen/beitraege/corona-virus-kein-killervirus.html)
 - [Überlastung deutscher Krankenhäuser durch COVID-19 laut Experten unwahrscheinlich (Ärzteblatt, 12.03.2020)](https://www.aerzteblatt.de/nachrichten/111029/Ueberlastung-deutscher-Krankenhaeuser-durch-COVID-19-laut-Experten-unwahrscheinlich)
-
+- [Weltärztepräsident gegen Ausgehverbote: "Ein Lockdown sei eine politische Verzweiflungsmaßnahme" (Handelsblatt, 18.03.2020)](https://www.handelsblatt.com/dpa/wirtschaft-handel-und-finanzen-virus-weltaerztepraesident-gegen-ausgehverbote/25655384.html?ticket=ST-2557018-CSTbN0vVvOdjvNPbAAXI-ap5)
 
 ## Statistik 
 - [Warum sterben in Italien so viele? (FAZ, 20.03.2020)](https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/corona-pandemie-warum-sterben-in-italien-so-viele-16688344.html)
