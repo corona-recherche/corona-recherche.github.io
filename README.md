@@ -24,6 +24,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 
 
 ## Statistik 
+- [»Bei uns gilt als Corona-Todesfall jemand, bei dem eine Coronavirus-Infektion nachgewiesen wurde«, so der RKI-Präsident](https://videos.files.wordpress.com/xw9WT7Zh/rki-corona-200320.mp4)
 - [Warum sterben in Italien so viele? (FAZ, 20.03.2020)](https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/corona-pandemie-warum-sterben-in-italien-so-viele-16688344.html)
 - Petitionen für die Durchführung einer repräsentativen Stichprobe
   - [Führen Sie eine Baseline Studie durch  - Wir brauchen endlich saubere Corona-Daten](https://www.openpetition.de/petition/online/fuehren-sie-die-baseline-studie-durch-wir-brauchen-endlich-saubere-corona-daten)
