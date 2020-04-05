@@ -25,6 +25,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - Petitionen für die Durchführung einer repräsentativen Stichprobe
   - [Führen Sie eine Baseline Studie durch  - Wir brauchen endlich saubere Corona-Daten](https://www.openpetition.de/petition/online/fuehren-sie-die-baseline-studie-durch-wir-brauchen-endlich-saubere-corona-daten)
   - [Petition: Führen Sie systematisch repräsentative SARS-CoV-2-Tests durch, um die Pandemie zu stoppen](https://www.change.org/p/ministerpr%C3%A4sident-dr-markus-s%C3%B6der-f%C3%BChren-sie-systematische-repr%C3%A4sentative-covid-19-tests-durch-um-die-pandemie-zu-stoppen)
+- [Ein Team des Deutschen Zentrums für Infektionsforschung (DZIF) an der Charité – Universitätsmedizin Berlin hat ein Nachweisverfahren für das derzeit in China kursierende Coronavirus entwickelt. Die WHO hat das Testprotokoll jetzt als bisher ersten diagnostischen Leitfaden veröffentlicht. ](https://www.dzif.de/de/erster-test-fuer-das-neuartige-coronavirus-china-ist-entwickelt)
 - ["The protocols have not yet been validated", (WHO, März 2020)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance)
    - [WHO removed all protocols from their website (previous version still available in the internet archive)](http://web.archive.org/web/20200219050513/https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance)
    - [All information regarding missing validation was moved into this PDF](https://www.who.int/docs/default-source/coronaviruse/whoinhouseassays.pdf)
@@ -62,6 +63,9 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Covid-19 – eine seltene Krankheit? Gilead krebst zurück (Handelszeitung, 27.03.2020) ](https://www.handelszeitung.ch/unternehmen/covid-19-eine-seltene-krankheit-gilead-krebst-zuruck)
 - [Coronavirus-Update: Brauchen Abkürzungen bei der Impfstoffzulassung; Drosten: "Zum Glück werden wir unterstützt von der Bill Gates Foundation" (NDR, 18.03.2020)](https://www.ndr.de/nachrichten/info/16-Coronavirus-Update-Wir-brauchen-Abkuerzungen-bei-der-Impfstoffzulassung,podcastcoronavirus140.html)
 - [Bill Gates investiert Millionen, um ein Heilmittel für das Coronavirus zu finden (Businessinsider, 11.03.2020)](https://www.businessinsider.de/wissenschaft/gesundheit/bill-gates-warnt-vor-coronavirus-und-investiert-in-heilmittel/)
+- [Prof. Drosten Patent for RT-PCR](https://patentimages.storage.googleapis.com/95/9b/ae/5bd89921139983/WO2003033732A2.pdf)
+- [Prof. Drosten (Pharma-Brief Spezial 1/2013 Öffentliche Gesundheitsforschung)](http://www.med4all.org/images/werkzeugkasten/PDFs/2013_01_spezial_Gesforsch.pdf)
+
 
 ### Immunitäts-Zertifikate
 - ["Quantum dot tattoo" Storing medical information below the skin’s surface - "The research was funded by the Bill Gates Foundation" (MIT News, 18.12.2019)](http://news.mit.edu/2019/storing-vaccine-history-skin-1218)
@@ -69,6 +73,9 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Germany will issue coronavirus antibody certificates to allow quarantined to re-enter society, (Telegraph, 29.03.2020)](https://www.telegraph.co.uk/news/2020/03/29/germany-will-issue-coronavirus-antibody-certificates-allow-quarantined/)
 - [Der Weg zurück in die Normalität: "Dieses Immunitätszertifikat dient ihnen als eine Art «Passierschein in die Normalität»" (Telepolis, 24.03.2020)](https://www.heise.de/tp/features/Der-Weg-zurueck-in-die-Normalitaet-4688592.html)
 - [ID2020 (id2020.org)](https://id2020.org/)
+- [A Contraceptive Implant with Remote Control
+: "Gates and his colleagues asked Langer if it were feasible to create birth control that a woman could turn on and off and use for many years" (MIT Technology Review)](https://www.technologyreview.com/s/528121/a-contraceptive-implant-with-remote-control/)
+
 
 ## WHO 
 - [Der heimliche WHO-Chef heißt Bill Gates (ZEIT, 04.04.2017)](https://www.zeit.de/wissen/gesundheit/2017-03/who-unabhaengigkeit-bill-gates-film)
@@ -78,6 +85,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Bill Gates zwischen Schein und Sein (Telepolis, 31. Januar 2016)](https://www.heise.de/tp/features/Bill-Gates-zwischen-Schein-und-Sein-3378037.html)
    - [Is the Gates Foundation always a force for good? (Global Justice Now, Juni 2016)](https://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf)
    - [Bill Gates Foundation hosted Event 201, a high-level pandemic exercise on October 18, 2019 (Event 201)](http://www.centerforhealthsecurity.org/event201/)
+  
    
 ## Politik 
 - [Bericht zur Risikoanalyse im Bevölkerungsschutz 2012: Pandemie durch Virus
