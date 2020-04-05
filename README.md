@@ -20,6 +20,8 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Überlastung deutscher Krankenhäuser durch COVID-19 laut Experten unwahrscheinlich (Ärzteblatt, 12.03.2020)](https://www.aerzteblatt.de/nachrichten/111029/Ueberlastung-deutscher-Krankenhaeuser-durch-COVID-19-laut-Experten-unwahrscheinlich)
 - [Weltärztepräsident gegen Ausgehverbote: "Ein Lockdown sei eine politische Verzweiflungsmaßnahme" (Handelsblatt, 18.03.2020)](https://www.handelsblatt.com/dpa/wirtschaft-handel-und-finanzen-virus-weltaerztepraesident-gegen-ausgehverbote/25655384.html?ticket=ST-2557018-CSTbN0vVvOdjvNPbAAXI-ap5)
 - ["Professor Knut Wittkowski, for twenty years head of The Rockefeller University's Department of Biostatistics, Epidemiology, and Research Design, says that social distancing and lockdown is the absolutely worst way to deal with an airborne respiratory virus."](https://www.youtube.com/watch?v=lGC5sGdz4kg)
+- ["Large majority of coronavirus infections do not result in symptoms [...] ‘What the hell are we locking down for?’" (British Medical Journal)](https://www.bmj.com/content/369/bmj.m1375)
+
 
 ## Statistik 
 - [Warum sterben in Italien so viele? (FAZ, 20.03.2020)](https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/corona-pandemie-warum-sterben-in-italien-so-viele-16688344.html)
