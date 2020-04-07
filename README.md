@@ -25,6 +25,8 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 
 ## Statistik 
 - [»Bei uns gilt als Corona-Todesfall jemand, bei dem eine Coronavirus-Infektion nachgewiesen wurde«, so der RKI-Präsident](https://videos.files.wordpress.com/xw9WT7Zh/rki-corona-200320.mp4)
+- [Gesundheitsweiser Gerlach kritisiert schlechte Daten und Entscheidungen im Blindflug (Ärzteblatt, 01.04.2020)](https://www.aerztezeitung.de/Politik/Gesundheitsweiser-Gerlach-kritisiert-schlechte-Daten-und-Entscheidungen-im-Blindflug-408227.html)
+- [Thesenpapier zur Pandemie durch SARS-CoV-2/Covid-19: Datenbasis verbessern Prävention gezielt weiterentwickeln Bürgerrechte wahren](https://files.springernature.com/getResource/%22Thesenpapier%20zur%20Pandemie%20...%22%20im%20Wortlaut.pdf?token=IULUvIufpS8AXE43riPpExKrcZMUcwpHIO0w4yhOno61RnG9Vz6%2Fr7GCrI5AcBi92o1n3tikPjKFkiYotkHNpNM75Zwrwg1JnULfD6ql3lYPqgQMU2BsN7gDMRwP3DwtffZxaDwA9DpPbjyv1lPzUrtyyTJlO0pB%2FxXEYAITg92BJD%2Buim%2BY1FHd7QZXbqjV7keesMpVNI4D%2B5PPFR6ZJaVsmg7kO8PoHfKnFNISIA%2Fqu%2F9xuBnRKtBnKPKMmwJsyXBsBJ59FdVZjJx6OA1NBsyBaFTlytdxpSzNyXOVaJ8Ht9ChLs%2FevRFhiPlxac%2BOBwfzSu679MDpk4AZJ4tNXrP1UBsKowhlzNb4koDKiHQ%3D)
 - [Warum sterben in Italien so viele? (FAZ, 20.03.2020)](https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/corona-pandemie-warum-sterben-in-italien-so-viele-16688344.html)
 - Petitionen für die Durchführung einer repräsentativen Stichprobe
   - [Führen Sie eine Baseline Studie durch  - Wir brauchen endlich saubere Corona-Daten](https://www.openpetition.de/petition/online/fuehren-sie-die-baseline-studie-durch-wir-brauchen-endlich-saubere-corona-daten)
