@@ -38,6 +38,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
    - [All information regarding missing validation was moved into this PDF](https://www.who.int/docs/default-source/coronaviruse/whoinhouseassays.pdf)
 - [www.euromomo.eu - Mortality monitoring in Europe](https://www.euromomo.eu/)
 - [RKI will Dunkelziffer der Coronavirus-Infektionen durch Studien ermitteln - "es gibt bisher keine verlässliche Datengrundlage" (Deutschlandfunk, 26.03.2020)](https://www.deutschlandfunk.de/covid-19-rki-will-dunkelziffer-der-coronavirus-infektionen.2850.de.html?drn:news_id=1114345)
+- [White House Coronavirus Task Force: "If someone dies with Covid-19 we're counting that as a Covid-19 death"](https://twitter.com/i/status/1247669966939262977)
 
 ### Robert Koch Institut
 - Die Anzahl der Infizierten verdreifacht sich nicht jede Woche, sondern sie wächst um weniger als 2% 
@@ -55,6 +56,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Spahns Corona-Gesetz stößt auf verfassungsrechtliche Bedenken (Handelsblatt, 24.03.2020)](https://www.handelsblatt.com/politik/deutschland/infektionsschutzgesetz-spahns-corona-gesetz-stoesst-auf-verfassungsrechtliche-bedenken/25673042.html)
 - [Scharfe Kritik im Landtag am Corona-Gesetz: "«Ermächtigungsgesetz» nannte es ein Ärztevertreter" (WDR, 01.04.2020) ](https://www1.wdr.de/nachrichten/landespolitik/epidemigesetz-landtag-100.html)
 - [Die Regierung ermächtigt sich in der Corona-Krise selbst – zulässig ist das nicht (Tagesspiegel, 01.04.2020)](https://www.tagesspiegel.de/politik/parlament-gibt-kontrolle-aus-der-hand-die-regierung-ermaechtigt-sich-in-der-corona-krise-selbst-zulaessig-ist-das-nicht/25701884.html?fbclid=IwAR3a8UWOwtKmcwcyC-05G6ox6rfHwg75ur0y1GtHZ7MkgA0bbYKZGz_LKAY)
+- [Besuchsverbote sind verfassungswidrig, (Spiegel, 06.04.2020)](https://www.spiegel.de/panorama/justiz/coronavirus-besuchsverbote-sind-verfassungswidrig-a-73e2970a-8a4d-4a0d-b9d1-b2b8aafcf6be)
 
 ## Medien 
 - [Scharfe Kritik an ARD und ZDF wegen Berichterstattung zum Coronavirus (Deutschlandfunk, 26.03.2020)](https://www.deutschlandfunk.de/covid-19-scharfe-kritik-an-ard-und-zdf-wegen.2849.de.html?drn%3Anews_id=1114517&fbclid=IwAR1WEi29ShfjqG9aWPLS0K8S1Ha0MAoZp_WYAuhnAn3f6arZusNRisIBZsI)
