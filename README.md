@@ -57,6 +57,8 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Scharfe Kritik im Landtag am Corona-Gesetz: "«Ermächtigungsgesetz» nannte es ein Ärztevertreter" (WDR, 01.04.2020) ](https://www1.wdr.de/nachrichten/landespolitik/epidemigesetz-landtag-100.html)
 - [Die Regierung ermächtigt sich in der Corona-Krise selbst – zulässig ist das nicht (Tagesspiegel, 01.04.2020)](https://www.tagesspiegel.de/politik/parlament-gibt-kontrolle-aus-der-hand-die-regierung-ermaechtigt-sich-in-der-corona-krise-selbst-zulaessig-ist-das-nicht/25701884.html?fbclid=IwAR3a8UWOwtKmcwcyC-05G6ox6rfHwg75ur0y1GtHZ7MkgA0bbYKZGz_LKAY)
 - [Besuchsverbote sind verfassungswidrig, (Spiegel, 06.04.2020)](https://www.spiegel.de/panorama/justiz/coronavirus-besuchsverbote-sind-verfassungswidrig-a-73e2970a-8a4d-4a0d-b9d1-b2b8aafcf6be)
+- [Professor Lepsius: Vom Niedergang grundrechtlicher Denkkategorien in der Corona-Pandemie (Verfassungsblog, 6.4.2020)](https://verfassungsblog.de/vom-niedergang-grundrechtlicher-denkkategorien-in-der-corona-pandemie/)
+
 
 ## Medien 
 - [Scharfe Kritik an ARD und ZDF wegen Berichterstattung zum Coronavirus (Deutschlandfunk, 26.03.2020)](https://www.deutschlandfunk.de/covid-19-scharfe-kritik-an-ard-und-zdf-wegen.2849.de.html?drn%3Anews_id=1114517&fbclid=IwAR1WEi29ShfjqG9aWPLS0K8S1Ha0MAoZp_WYAuhnAn3f6arZusNRisIBZsI)
