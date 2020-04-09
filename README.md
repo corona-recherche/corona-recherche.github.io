@@ -58,6 +58,8 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Die Regierung ermächtigt sich in der Corona-Krise selbst – zulässig ist das nicht (Tagesspiegel, 01.04.2020)](https://www.tagesspiegel.de/politik/parlament-gibt-kontrolle-aus-der-hand-die-regierung-ermaechtigt-sich-in-der-corona-krise-selbst-zulaessig-ist-das-nicht/25701884.html?fbclid=IwAR3a8UWOwtKmcwcyC-05G6ox6rfHwg75ur0y1GtHZ7MkgA0bbYKZGz_LKAY)
 - [Besuchsverbote sind verfassungswidrig, (Spiegel, 06.04.2020)](https://www.spiegel.de/panorama/justiz/coronavirus-besuchsverbote-sind-verfassungswidrig-a-73e2970a-8a4d-4a0d-b9d1-b2b8aafcf6be)
 - [Professor Lepsius: Vom Niedergang grundrechtlicher Denkkategorien in der Corona-Pandemie (Verfassungsblog, 6.4.2020)](https://verfassungsblog.de/vom-niedergang-grundrechtlicher-denkkategorien-in-der-corona-pandemie/)
+- [Polizei sammelt per Notstandsparagraf Daten von Corona-Infizierten - Datenschutzbeauftragte: "Wir halten die weiterlaufende Datenübermittlung für rechtswidrig" (Heise, 06.04.2020)](https://www.heise.de/newsticker/meldung/Polizei-sammelt-per-Notstandsparagraf-Daten-von-Corona-Infizierten-4698172.html)
+
 
 
 ## Medien 
@@ -96,7 +98,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Bill Gates zwischen Schein und Sein (Telepolis, 31. Januar 2016)](https://www.heise.de/tp/features/Bill-Gates-zwischen-Schein-und-Sein-3378037.html)
    - [Is the Gates Foundation always a force for good? (Global Justice Now, Juni 2016)](https://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf)
    - [Bill Gates Foundation hosted Event 201, a high-level pandemic exercise on October 18, 2019 (Event 201)](http://www.centerforhealthsecurity.org/event201/)
-  
+- [Candidate to Lead the W.H.O. Accused of Covering Up Epidemics (NY Times, 13.05.2017)](https://www.nytimes.com/2017/05/13/health/candidate-who-director-general-ethiopia-cholera-outbreaks.html)  
    
 ## Politik 
 - [Bericht zur Risikoanalyse im Bevölkerungsschutz 2012: Pandemie durch Virus
