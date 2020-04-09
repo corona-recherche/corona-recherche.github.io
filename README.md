@@ -22,7 +22,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Weltärztepräsident gegen Ausgehverbote: "Ein Lockdown sei eine politische Verzweiflungsmaßnahme" (Handelsblatt, 18.03.2020)](https://www.handelsblatt.com/dpa/wirtschaft-handel-und-finanzen-virus-weltaerztepraesident-gegen-ausgehverbote/25655384.html?ticket=ST-2557018-CSTbN0vVvOdjvNPbAAXI-ap5)
 - ["Professor Knut Wittkowski, for twenty years head of The Rockefeller University's Department of Biostatistics, Epidemiology, and Research Design, says that social distancing and lockdown is the absolutely worst way to deal with an airborne respiratory virus."](https://www.youtube.com/watch?v=lGC5sGdz4kg)
 - ["Large majority of coronavirus infections do not result in symptoms [...] ‘What the hell are we locking down for?’" (British Medical Journal)](https://www.bmj.com/content/369/bmj.m1375)
-
+- [Dr Bhattacharya, professor of medicine at Stanford University: “there’s little evidence to confirm that premise—and projections of the death toll could plausibly be orders of magnitude too high.” (Wall Street Journal, Youtube)](https://www.youtube.com/watch?v=-UO3Wd5urg0)
 
 ## Statistik 
 - [»Bei uns gilt als Corona-Todesfall jemand, bei dem eine Coronavirus-Infektion nachgewiesen wurde«, so der RKI-Präsident](https://videos.files.wordpress.com/xw9WT7Zh/rki-corona-200320.mp4)
