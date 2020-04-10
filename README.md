@@ -81,6 +81,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Prof. Drosten (Pharma-Brief Spezial 1/2013 Öffentliche Gesundheitsforschung)](http://www.med4all.org/images/werkzeugkasten/PDFs/2013_01_spezial_Gesforsch.pdf)
 - [WHO und Weltbank: Welt unzureichend auf globale Epidemien vorbereitet. Drosten sagte "dass bei einer globalen Influenza-Pandemie 51 bis 81 Millionen Menschen ums Leben kommen könnten" (18.09.2019)](https://www.aerzteblatt.de/nachrichten/106082/WHO-und-Weltbank-Welt-unzureichend-auf-globale-Epidemien-vorbereitet)
 
+
 ### Immunitäts-Zertifikate
 - ["Quantum dot tattoo" Storing medical information below the skin’s surface - "The research was funded by the Bill Gates Foundation" (MIT News, 18.12.2019)](http://news.mit.edu/2019/storing-vaccine-history-skin-1218)
 - [Corona-Immunität als entscheidende Ressource "Dieses Immunitätszertifikat dient ihnen als eine Art «Passierschein in die Normalität»" (Finanz und Wirtschaft, 24.03.2020)](https://www.fuw.ch/article/corona-immunitaet-als-entscheidende-ressource/)
@@ -96,6 +97,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Die WHO - Im Griff der Lobbyisten? (ARTE, 04.04.2017)](https://programm.ard.de/TV/Programm/Detailsuche/?sendung=2872498016546)
 - [WHO officials enroll first patients from Norway and Spain in ‘historic’ coronavirus drug trial, (CNBC, 27.03.2020)](https://www.cnbc.com/2020/03/27/who-officials-enroll-first-patients-from-norway-and-spain-in-historic-coronavirus-drug-trial.html)
 - [Bill Gates Met With Jeffrey Epstein Many Times, Despite His Past (New York Times, 12.10.2019)](https://www.nytimes.com/2019/10/12/business/jeffrey-epstein-bill-gates.html)
+- [Bill Gates made donations to MIT through Jeffrey Epstein —here are all of the tech mogul's connections to the financier (Business Insider, 10.09.2020)](https://www.businessinsider.com/bill-gates-connections-jeffrey-epstein-mit-donations-ronan-farrow-2019-9?r=DE&IR=T)
 - [Bill Gates zwischen Schein und Sein (Telepolis, 31. Januar 2016)](https://www.heise.de/tp/features/Bill-Gates-zwischen-Schein-und-Sein-3378037.html)
    - [Is the Gates Foundation always a force for good? (Global Justice Now, Juni 2016)](https://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf)
    - [Bill Gates Foundation hosted Event 201, a high-level pandemic exercise on October 18, 2019 (Event 201)](http://www.centerforhealthsecurity.org/event201/)
