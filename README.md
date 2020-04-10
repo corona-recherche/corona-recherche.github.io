@@ -100,6 +100,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
    - [Is the Gates Foundation always a force for good? (Global Justice Now, Juni 2016)](https://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf)
    - [Bill Gates Foundation hosted Event 201, a high-level pandemic exercise on October 18, 2019 (Event 201)](http://www.centerforhealthsecurity.org/event201/)
 - [Candidate to Lead the W.H.O. Accused of Covering Up Epidemics (NY Times, 13.05.2017)](https://www.nytimes.com/2017/05/13/health/candidate-who-director-general-ethiopia-cholera-outbreaks.html)  
+- [Statement of the International Advisory Board on Global Health presented to the Federal Minister of Health (07.06.2019)](https://globalhealth.charite.de/en/metas/news/artikel/detail/statement_of_the_international_advisory_board_on_global_health_presented_to_the_federal_minister_of/)
    
 ## Politik 
 - [Bericht zur Risikoanalyse im Bevölkerungsschutz 2012: Pandemie durch Virus
