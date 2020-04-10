@@ -79,7 +79,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Bill Gates investiert Millionen, um ein Heilmittel für das Coronavirus zu finden (Businessinsider, 11.03.2020)](https://www.businessinsider.de/wissenschaft/gesundheit/bill-gates-warnt-vor-coronavirus-und-investiert-in-heilmittel/)
 - [Prof. Drosten Patent for RT-PCR](https://patentimages.storage.googleapis.com/95/9b/ae/5bd89921139983/WO2003033732A2.pdf)
 - [Prof. Drosten (Pharma-Brief Spezial 1/2013 Öffentliche Gesundheitsforschung)](http://www.med4all.org/images/werkzeugkasten/PDFs/2013_01_spezial_Gesforsch.pdf)
-
+- [WHO und Weltbank: Welt unzureichend auf globale Epidemien vorbereitet. Drosten sagte "dass bei einer globalen Influenza-Pandemie 51 bis 81 Millionen Menschen ums Leben kommen könnten" (18.09.2019)](https://www.aerzteblatt.de/nachrichten/106082/WHO-und-Weltbank-Welt-unzureichend-auf-globale-Epidemien-vorbereitet)
 
 ### Immunitäts-Zertifikate
 - ["Quantum dot tattoo" Storing medical information below the skin’s surface - "The research was funded by the Bill Gates Foundation" (MIT News, 18.12.2019)](http://news.mit.edu/2019/storing-vaccine-history-skin-1218)
