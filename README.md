@@ -89,7 +89,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [ID2020 (id2020.org)](https://id2020.org/)
 - [A Contraceptive Implant with Remote Control
 : "Gates and his colleagues asked Langer if it were feasible to create birth control that a woman could turn on and off and use for many years" (MIT Technology Review)](https://www.technologyreview.com/s/528121/a-contraceptive-implant-with-remote-control/)
-
+- [Fauci: There might be "merit" to the idea of coronavirus immunity certificates, (CNN, 10.04.2020)](https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-10-20/h_22356f654296c004330e2149b8afd5eb)
 
 ## WHO 
 - [Der heimliche WHO-Chef heißt Bill Gates (ZEIT, 04.04.2017)](https://www.zeit.de/wissen/gesundheit/2017-03/who-unabhaengigkeit-bill-gates-film)
