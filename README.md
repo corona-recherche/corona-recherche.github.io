@@ -43,9 +43,11 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [White House Coronavirus Task Force: "If someone dies with Covid-19 we're counting that as a Covid-19 death"](https://twitter.com/i/status/1247669966939262977)
 
 ### Robert Koch Institut
-- Die Anzahl der Infizierten verdreifacht sich nicht jede Woche, sondern sie wächst um weniger als 2% 
+- Die Anzahl der Infizierten verdreifacht sich nicht jede Woche, sondern sie wächst um weniger als zwei Prozentpunkte. 
+- Update 15.04.2020: Anzahl der Infizierten fällt um ein Prozentpunkt.
   - [Lagebericht 2020-03-26 (Tabelle 4: Durchgeführten Testungen auf SARS-CoV in den Kalenderwochen 11 und 12, 2020-(26.03.2020))](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-03-26-de.pdf?__blob=publicationFile) 
   - [Lagebericht 2020-04-01 (Tabelle 4: Anzahl der Testungen in Deutschland (01.04.2020, 0:00 Uhr)) ](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-04-01-de.pdf?__blob=publicationFile)
+  - [Lagebericht 2020-04-15 (Tabelle 4) ](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-04-15-en.pdf?__blob=publicationFile)
 
 
 ## Recht 
