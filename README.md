@@ -23,6 +23,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - ["Professor Knut Wittkowski, for twenty years head of The Rockefeller University's Department of Biostatistics, Epidemiology, and Research Design, says that social distancing and lockdown is the absolutely worst way to deal with an airborne respiratory virus."](https://www.youtube.com/watch?v=lGC5sGdz4kg)
 - ["Large majority of coronavirus infections do not result in symptoms [...] ‘What the hell are we locking down for?’" (British Medical Journal)](https://www.bmj.com/content/369/bmj.m1375)
 - [Dr Bhattacharya, professor of medicine at Stanford University: “there’s little evidence to confirm that premise—and projections of the death toll could plausibly be orders of magnitude too high.” (Wall Street Journal, Youtube)](https://www.youtube.com/watch?v=-UO3Wd5urg0)
+- [Hamburg Rechtsmediziner ohne Vorerkrankung ist in Hamburg an Covid-19 noch keiner gestorben (Focus, 09.04.2020)](https://www.focus.de/gesundheit/news/hamburg-rechtsmediziner-ohne-vorerkrankung-ist-in-hamburg-an-covid-19-noch-keiner-gestorben_id_11865398.html)
 
 ## Statistik 
 - [Infection fatality rate of 0.12-0.2% (John P.A. Ioannidis, Jay Bhattacharya 11.04.2020)](https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1.full.pdf)
@@ -64,7 +65,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Besuchsverbote sind verfassungswidrig, (Spiegel, 06.04.2020)](https://www.spiegel.de/panorama/justiz/coronavirus-besuchsverbote-sind-verfassungswidrig-a-73e2970a-8a4d-4a0d-b9d1-b2b8aafcf6be)
 - [Professor Lepsius: Vom Niedergang grundrechtlicher Denkkategorien in der Corona-Pandemie (Verfassungsblog, 6.4.2020)](https://verfassungsblog.de/vom-niedergang-grundrechtlicher-denkkategorien-in-der-corona-pandemie/)
 - [Polizei sammelt per Notstandsparagraf Daten von Corona-Infizierten - Datenschutzbeauftragte: "Wir halten die weiterlaufende Datenübermittlung für rechtswidrig" (Heise, 06.04.2020)](https://www.heise.de/newsticker/meldung/Polizei-sammelt-per-Notstandsparagraf-Daten-von-Corona-Infizierten-4698172.html)
-
+- [Präsident des Saarländischen Verfassungsgerichtshofs, Rixecker, fordert im SR-Interview, die Beschränkungen von Grundrechten wegen der Coronapandemie zügig zu beenden (SR, 18.04.2020)](https://www.sr.de/sr/home/nachrichten/regionalnachrichten/regionalnachrichten212060.html)
 
 
 ## Medien 
