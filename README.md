@@ -25,6 +25,7 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [Dr Bhattacharya, professor of medicine at Stanford University: “there’s little evidence to confirm that premise—and projections of the death toll could plausibly be orders of magnitude too high.” (Wall Street Journal, Youtube)](https://www.youtube.com/watch?v=-UO3Wd5urg0)
 
 ## Statistik 
+- [Infection fatality rate of 0.12-0.2% (John P.A. Ioannidis, Jay Bhattacharya 11.04.2020)](https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1.full.pdf)
 - [Neue RKI-Corona-Fall-Studie: Einfluss der Kontaktsperre eher mäßig (Heise, 14.04.2020)](https://www.heise.de/newsticker/meldung/Neue-RKI-Corona-Fall-Studie-Einfluss-der-Kontaktsperre-eher-maessig-4702096.html)
 - [Die Todesrate liegt nur bei 0,37 Prozent (WDR, 09.04.2021)](https://www1.wdr.de/nachrichten/rheinland/grosse-resonanz-auf-coronastudie-gangelt-100.html)
 - [»Bei uns gilt als Corona-Todesfall jemand, bei dem eine Coronavirus-Infektion nachgewiesen wurde«, so der RKI-Präsident](https://videos.files.wordpress.com/xw9WT7Zh/rki-corona-200320.mp4)
