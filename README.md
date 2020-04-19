@@ -44,6 +44,12 @@ Link-Vorschläge bitte an: <a href="mailto:corona-recherche@protonmail.ch">coron
 - [RKI will Dunkelziffer der Coronavirus-Infektionen durch Studien ermitteln - "es gibt bisher keine verlässliche Datengrundlage" (Deutschlandfunk, 26.03.2020)](https://www.deutschlandfunk.de/covid-19-rki-will-dunkelziffer-der-coronavirus-infektionen.2850.de.html?drn:news_id=1114345)
 - [White House Coronavirus Task Force: "If someone dies with Covid-19 we're counting that as a Covid-19 death"](https://twitter.com/i/status/1247669966939262977)
 
+### Case Fatality Rate
+- [Professor Streeck, Study in Heinsberg, Germany: "Case fatality rate of about 0.37%" (7.4.2020)](https://www.land.nrw/sites/default/files/asset/document/zwischenergebnis_covid19_case_study_gangelt_0.pdf)
+- [Stanford Prof Ioannidis, Study in Santa Clara, USA: "Infection fatality rate of 0.12-0.2%"](https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1.full.pdf)
+- [MRC Centre for Global Infectious Disease Analysis, Abdul Latif Jameel Institute for Disease and Emergency Analytics, and Department of Infectious Disease Epidemiology, Imperial College London: "Our estimated overall infection fatality ratio for China was 0.66% (0.39–1.33)"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7158570/pdf/main.pdf)
+
+
 ### Robert Koch Institut
 - Die Anzahl der Infizierten verdreifacht sich nicht jede Woche, sondern sie wächst um weniger als zwei Prozentpunkte. 
 - Update 15.04.2020: Anzahl der Infizierten fällt um ein Prozentpunkt.
