@@ -8,6 +8,7 @@ Die geschätzte Anzahl der Teilnehmer ist die Versammlungsfläche multipliziert 
 Die Polizei Berlin bezifferte die Gesamtzahl aller Demonstranten in Berlin mit 38.000 und der SPIEGEL kommt in seiner [Schätzung auf 32.500 Teilnehmer](https://www.spiegel.de/politik/deutschland/corona-proteste-in-berlin-faktencheck-zur-teilnehmerzahl-a-bed7b31e-53ab-48da-8643-16f368d4dec3). 
 Diese Schätzungen erscheinen deutlich zu niedrig vergleicht man sie mit dem verfügbaren Karten- und [Bildmaterial](https://www.youtube.com/watch?v=XisCwTGsRGs).
 
+
 ## Versammlungsfläche
 Die Versammlungsfläche erstreckte sich vom Brandenburger Tor über die gesamte Straße des 17. Juni bis zur Siegessäule. Das entspricht [laut dieser Karte ungefähr 115000 Quadratmetern](https://www.mapchecking.com/#52.5144123,13.3468144;52.5141511,13.3468412;52.5142294,13.3487886;52.5138269,13.3494189;52.5136222,13.3501457;52.5136467,13.3503744;52.5139193,13.3512146;52.5140859,13.3513607;52.5145037,13.3518999;52.5151930,13.3627597;52.5160601,13.3766171;52.5158988,13.3767228;52.5157637,13.3770002;52.5158189,13.3777174;52.5160771,13.3776729;52.5162649,13.3810676;52.5167244,13.3809046;52.5165025,13.3775737;52.5167517,13.3775737;52.5167562,13.3768120;52.5165851,13.3766029;52.5164126,13.3764959;52.5159987,13.3705631;52.5153570,13.3603613;52.5151148,13.3564350;52.5150487,13.3549336;52.5148905,13.3524779;52.5148269,13.3515807;52.5150505,13.3512575;52.5153068,13.3509182;52.5153786,13.3504542;52.5154113,13.3498185;52.5150701,13.3488636;52.5147789,13.3486813;52.5146761,13.3486344;52.5146180,13.3485188;52.5145321,13.3483932;52.5144195,13.3468633;52.5144254,13.3468462;52.5144360,13.3468157;52.5144254,13.3469340;1;52.5144660,13.3523299,16
 ).
@@ -41,3 +42,15 @@ Das entspricht `115000 * 1,1 * 1,1 * 1,1 ~ 150000` Teilnehmer über den Tag vert
 ## Ergebnis
 Auf der Demonstration gegen die Corona-Maßnahmen am 29.8.2020 in Berlin waren schätzungsweise zwischen 110.000 und 150.000 Teilnehmer. 
 Demnach protestierten drei bis vier mal mehr Menschen, als von der Polizei Berlin angegeben.
+
+
+## Bildmaterial
+
+
+<img src="crowd-2.png">
+<img src="crowd-4.png">
+<img src="crowd-5.png">
+<img src="crowd-6.png">
+<img src="crowd-7.JPG">
+<img src="crowd-8.JPG">
+<img src="crowd-9.JPG">
