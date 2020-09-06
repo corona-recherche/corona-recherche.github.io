@@ -18,7 +18,7 @@ Die Versammlungsfläche war demnach *mindestens* 115.000 Quadratmeter.
 
 ## Menschendichte 
 Die Rede von Robert F Kennedy Jr. um 16 Uhr war das Highlight der Demonstration. Demnach war die Menschendichte zu diesem Zeitpunkt am dichtesten. Luftbilder sind derzeit leider nur [zwischen 11](https://www.youtube.com/watch?v=0yoqgVTO3UE) und [14:30 Uhr](https://www.youtube.com/watch?v=USzIuE4u0Xk) zu finden.
-Es sind jedoch zahlreiche Mitschnitte von Teilnehmern öffentlich verfügbar. Auf einer Auswahl solcher Videos basiert diese Schätzung. Vermutlich war die durchschnittliche Menschendichte eine Person pro Quadratmeter. [In der Nähe der Hauptbühne](https://www.youtube.com/watch?v=RloipY83ljg) war die Menschendichte erheblich höher.
+Es sind jedoch zahlreiche Mitschnitte von Teilnehmern öffentlich verfügbar. Auf einer Auswahl solcher Videos basiert diese Schätzung. Vermutlich befanden sich durchschnittlich ungefähr eine Person pro Quadratmeter. [In der Nähe der Hauptbühne](https://www.youtube.com/watch?v=RloipY83ljg) war die Menschendichte erheblich höher.
 Auch in der [Mitte der Straße des 17. Juni](https://www.youtube.com/watch?v=AB1NZJmDFng) bis zum Brandenburger Tor war die Menschendichte vermutlich sogar höher. Die Menschen stehen standen dicht auf der gesamten Breite der Straße und den Gehwegen.
 
 Die Menschendichte war demnach *mindestens* eine Person pro Quadratmeter.
