@@ -7,6 +7,8 @@ Die geschätzte Anzahl der Teilnehmer ist die Versammlungsfläche multipliziert 
 
 Die Polizei Berlin bezifferte die Gesamtzahl aller Demonstranten in Berlin mit 38.000 und der SPIEGEL kommt in seiner [Schätzung auf 32.500 Teilnehmer](https://www.spiegel.de/politik/deutschland/corona-proteste-in-berlin-faktencheck-zur-teilnehmerzahl-a-bed7b31e-53ab-48da-8643-16f368d4dec3). 
 Diese Schätzungen erscheinen deutlich zu niedrig vergleicht man sie mit dem verfügbaren Karten- und [Bildmaterial](https://www.youtube.com/watch?v=XisCwTGsRGs).
+Die “Bundesarbeitsgemeinschaft Kritischer Polizistinnen und Polizisten” [schreibt über die Anzahl der Demonstranten](https://www.kritische-polizisten.de/2020/08/verbot-des-demonstrationsverbots/): “Warum werden von den Berliner Behörden so klar wie leicht erkennbar falsche Zahlen in die Welt gesetzt?” und “Gestern waren nach unserer gesicherten Einschätzung hunderttausende auf den Straßen der Berliner Innenstadt mit unterschiedlichen Demonstrationszielen und in mindestens sieben verschiedenen Demonstrationen unterwegs.”
+
 
 Die Folgende Schätzung ergibt **mindestens 100.000 bis 150.000 Teilnehmer**.
 
