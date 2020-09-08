@@ -7,7 +7,12 @@ Die Polizei Berlin bezifferte die Gesamtzahl aller Demonstranten in Berlin mit 3
 
 
 Diese Schätzungen erscheinen deutlich zu niedrig vergleicht man sie mit dem verfügbaren Karten- und [Bildmaterial](https://www.youtube.com/watch?v=XisCwTGsRGs).
-Die “Bundesarbeitsgemeinschaft Kritischer Polizistinnen und Polizisten” [schreibt über die Anzahl der Demonstranten](https://www.kritische-polizisten.de/2020/08/verbot-des-demonstrationsverbots/): “Warum werden von den Berliner Behörden so klar wie leicht erkennbar falsche Zahlen in die Welt gesetzt?” und “Gestern waren nach unserer gesicherten Einschätzung hunderttausende auf den Straßen der Berliner Innenstadt mit unterschiedlichen Demonstrationszielen und in mindestens sieben verschiedenen Demonstrationen unterwegs.”
+Die Bundesarbeitsgemeinschaft Kritischer Polizistinnen und Polizisten [schreibt über die Anzahl der Demonstranten](https://www.kritische-polizisten.de/2020/08/verbot-des-demonstrationsverbots/): 
+> “Warum werden von den Berliner Behörden so klar wie leicht erkennbar falsche Zahlen in die Welt gesetzt?” 
+
+und
+
+> “Gestern waren nach unserer gesicherten Einschätzung hunderttausende auf den Straßen der Berliner Innenstadt mit unterschiedlichen Demonstrationszielen und in mindestens sieben verschiedenen Demonstrationen unterwegs.”
 
 Die geschätzte Anzahl der Teilnehmer ist die Versammlungsfläche multipliziert mit der durchschnittlichen Menschendichte pro Quadratmeter:
 ```Versammlungsfläche * Menschendichte = Teilnehmeranzahl```. 
