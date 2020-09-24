@@ -21,16 +21,17 @@ Eine Liste der Ortsgruppen der Freiheitsboten in Deutschland und der Schweiz.
 - [Augsburg](https://t.me/Freiheitsboten_Augsburg)
 - [Bamberg](https://t.me/Freiheitsbote_Bamberg)
 - [Günzburg Dillingen](https://t.me/freigzdil)
+- [Kitzingen](https://t.me/Friedensboten_Kitzingen)
 - [Landshut](https://t.me/Freiheitsboten_Landshut)
 - [München](https://t.me/Freiheitsboten_München)
 - [Miesbach](https://t.me/FreiheitsboteBonnRheinSieg)
 - [Miltenberg](https://t.me/aktionmil)
 - [Nürnberg](https://t.me/freiheitsbote_nuernberg)
+- [Landsberg](https://t.me/Freiheitsboten_Landsberg)
 - [Pfarrkirchen](https://t.me/FreiheitsbotenPfarrkirchen)
 - [Pfronten](https://t.me/Freiheitsboten_Pfronten_Umgebung)
 - [Regensburg](https://t.me/FreiheitsbotenRegensburg)
 - [Rosenheim](https://t.me/freiheitsboten_rosenheim)
-
 
 ### Berlin
 - [Berlin](https://t.me/Freiheitsboten_Berlin)
