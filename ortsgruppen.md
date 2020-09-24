@@ -1,6 +1,8 @@
 # Freiheitsboten Ortsgruppen
 
-Eine Liste der Ortsgruppen der Freiheitsboten in Deutschland und der Schweiz. 
+Eine Liste der Ortsgruppen der [Freiheitsboten](https://t.me/Freiheitsboten) in Deutschland und der Schweiz. 
+
+
 
 ## Deutschland 🇩🇪
 
