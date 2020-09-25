@@ -73,7 +73,7 @@ Eine Liste der Ortsgruppen der [Freiheitsboten](https://t.me/Freiheitsboten) in 
 
 
 ### Hamburg
-- [Hamburg](https://t.me/Freiheitsbote_Hamburg)
+- [Hamburg Süderelbe](https://t.me/Freiheitsbote_Hamburg)
 - [Hamburg Mitte](https://t.me/Freiheitsboten_Hamburg)
 
 
