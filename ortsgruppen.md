@@ -128,7 +128,7 @@ Hier lassen sich die [Flyer zum drucken downloaden](https://github.com/freiheits
 ### Schleswig-Holstein
 - [Flensburg](https://t.me/FreiheitsbotenOstsee_FL_bis_Kiel)
 - [Kiel](https://t.me/Freiheitsboten_Kiel)
-- [Lübeck](https://t.me/Freiheitsboten_Ostsee_Lübeck)
+- [Lübeck](https://t.me/Freiheitsboten_Luebeck)
 - [Schwarzenbek](https://t.me/FreiheitsbotenSBK)
 
 
