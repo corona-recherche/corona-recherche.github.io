@@ -125,7 +125,7 @@ Eine Liste der Ortsgruppen der [Freiheitsboten](https://t.me/Freiheitsboten) in 
 - [Wartburgkreis](https://t.me/Freiheitsboten_Wartburgkreis)
 
 
-### Schleswig-Hollstein
+### Schleswig-Holstein
 - [Flensburg](https://t.me/FreiheitsbotenOstsee_FL_bis_Kiel)
 - [Kiel](https://t.me/Freiheitsboten_Kiel)
 - [Lübeck](https://t.me/Freiheitsboten_Ostsee_Lübeck)
