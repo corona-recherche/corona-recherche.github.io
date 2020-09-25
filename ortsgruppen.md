@@ -2,7 +2,7 @@
 
 Eine Liste der Ortsgruppen der [Freiheitsboten](https://t.me/Freiheitsboten) in Deutschland und der Schweiz. 
 
-
+Hier lassen sich die [Flyer zum drucken downloaden](https://github.com/freiheitscoder/freiheitscoder.github.io/tree/master/flyer).
 
 ## Deutschland 🇩🇪
 
