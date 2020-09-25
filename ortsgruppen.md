@@ -1,5 +1,9 @@
 # Freiheitsboten Ortsgruppen
 
+
+
+> Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteilen, dann komm in unsere Gruppe und unterstütze und dabei, Du findest regelmäßig neue professionelle Flugblätter und Infozettel für Deine Spaziergänge
+
 Eine Liste der Ortsgruppen der [Freiheitsboten](https://t.me/Freiheitsboten) in Deutschland und der Schweiz. 
 
 Hier lassen sich die [Flyer zum drucken downloaden](https://github.com/freiheitscoder/freiheitscoder.github.io/tree/master/flyer).
